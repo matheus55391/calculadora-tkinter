@@ -1,3 +1,3 @@
 # My-first-calculator-on-tkinter
 
-Nossa eu meio que fiz isso a muito tempo quando ainda estava aprendendo então desculpa os comentarios :p 
+That was my first python project, I know it's horrible but I like to leave it here.
